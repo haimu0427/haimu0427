@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 😎 下面这个只能展示我的😙♪♪
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haimu0427&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haimu0427)](https://github.com/haimu0427/haimu0427/edit/main/README.md)
+
+-->
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=haimu0427)](https://github.com/haimu0427/haimu0427/edit/main/README.md)
 
