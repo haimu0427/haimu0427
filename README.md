@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=haimu0427)](https://github.com/haimu0427/haimu0427/edit/main/README.md)
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=少年心事当拏云!👋)](https://git.io/typing-svg)
